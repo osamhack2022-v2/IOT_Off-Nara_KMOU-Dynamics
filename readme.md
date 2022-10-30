@@ -1,7 +1,7 @@
 # 옾나라(Off-Nara)
-<p align="center">
-  ![off nara logo](https://user-images.githubusercontent.com/76986402/194733403-38135655-c8c1-45f3-b019-eb20fbda87e9.JPG)
-</p>
+
+![off nara logo](https://user-images.githubusercontent.com/76986402/194733403-38135655-c8c1-45f3-b019-eb20fbda87e9.JPG)
+
 **자율주행**을 통해 지휘관의 사무실까지 **서류를 가지고 운반**하며, 지정된 인원만 열람할 수 있는 **잠금장치를 탑재한 로봇**이다.
 
 ## Manual
