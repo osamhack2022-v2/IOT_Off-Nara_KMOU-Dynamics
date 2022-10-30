@@ -21,5 +21,5 @@
 
 ## License
  * [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)
- * [BSD](https://github.com/osamhack2022/IOT_Off-Nara_KMOU-Dynamics/blob/master/LICENSE)
+ * [BSD](https://github.com/osamhack2022-v2/IOT_Off-Nara_KMOU-Dynamics/blob/master/LICENSE)
 
