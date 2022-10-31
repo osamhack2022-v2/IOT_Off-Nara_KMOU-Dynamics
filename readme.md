@@ -5,7 +5,7 @@
 **자율주행**을 통해 지휘관의 사무실까지 **서류를 가지고 운반**하며, 지정된 인원만 열람할 수 있는 **잠금장치를 탑재 로봇**
 
 ## Manual
-본 프로젝트는 오픈소스 프로젝트로 진행되며, 본 프로젝트에 관심이 있는 개발자와 사용자를 위하여 **튜토리얼 GitBook**을 제작하여 공개하고 있습니다.
+본 프로젝트는 오픈소스 프로젝트로 진행되었으며, 본 프로젝트에 관심있는 분들을 위해 **GitBook**에 사용법을 제작하여 공개하고 있습니다.
 
 <p align="center">
   <a href="https://lofty-innocent-b75.notion.site/OFF-NARA-b822e97d6b72433b84d49dd200afabf8">
@@ -14,7 +14,7 @@
 </p>
 
 ## Contribution
-문서화에 유리한 **Notion**과 실시간 소통이 가능한 **Slack**을 활용하여 협업하였습니다. 
+프로젝트 관리 및 기록을 위해**Notion**을 사용하였으며, 상세 프로젝트 내용을 기술하였습니다.
 <p align="center">
   <a href="https://lofty-innocent-b75.notion.site/OFF-NARA-b822e97d6b72433b84d49dd200afabf8
 " target="_blank">
@@ -26,3 +26,5 @@
  * [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)
  * [BSD](https://github.com/osamhack2022-v2/IOT_Off-Nara_KMOU-Dynamics/blob/master/LICENSE)
 
+## Copyright
+Copyright 2022. KMOU-Dynamics All rights reserved.
