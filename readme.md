@@ -14,7 +14,7 @@
 </p>
 
 ## Contribution
-프로젝트 관리 및 기록을 위해**Notion**을 사용하였으며, 상세 프로젝트 내용을 기술하였습니다.
+프로젝트 관리 및 기록을 위해 **Notion**을 사용하였으며, 상세 프로젝트 내용을 기술하였습니다.
 <p align="center">
   <a href="https://lofty-innocent-b75.notion.site/OFF-NARA-b822e97d6b72433b84d49dd200afabf8
 " target="_blank">
