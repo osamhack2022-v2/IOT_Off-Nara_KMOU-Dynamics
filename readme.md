@@ -8,7 +8,7 @@
 본 프로젝트는 오픈소스 프로젝트로 진행되었으며, 본 프로젝트에 관심있는 분들을 위해 **GitBook**에 사용법을 기술하여 공개하고 있습니다.
 
 <p align="center">
-  <a href="https://caitfuspes-organization.gitbook.io/off-nara/">
+  <a href="https://caitfuspes-organization.gitbook.io/copy-of-off-nara/">
     <img src="https://img.shields.io/badge/GitBook-project_doc-blue?&style=for-the-badge&logo=github">
   </a>
 </p>
